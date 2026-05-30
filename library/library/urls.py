@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.urls import path
 
-# Імпортуємо views ваших додатків
+
 from order.views import order_page
 from user.views import user_page
 
